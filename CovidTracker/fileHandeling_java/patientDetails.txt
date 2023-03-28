@@ -1,0 +1,13 @@
+2,shishir1,babarmahal1,9840,19 Sep 2021,28 Sep 2021,Null
+3,shishir12,babarmahal12,98402,19 Sep 2021,28 Sep 2021,Null
+5,gaddu,maitidevi,98400,Null,28 Sep 2021,18 Sep 2021
+6,priya,maitidevi,98400,Null,28 Sep 2021,19 Sep 2021
+7,pasang,buddha,98400,Null,28 Sep 2021,17 Sep 2021
+0,shishir123,babarmahal5,986,Null,28 Sep 2021,23 Sep 2021
+4,netra69,lazimpat,98400,Null,28 Sep 2021,18 Sep 2021
+8,sameer,gulariya,98400,Null,28 Sep 2021,17 Sep 2021
+1,shishir69,babarmahal,98,18 Sep 2021,28 Sep 2021,Null
+9,swikrit1,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
+10,bishwo,lazimpat2344577,9840023444,Null,28 Sep 2021,17 Sep 2021
+11,abcd,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
+12,1234456,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
